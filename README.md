@@ -5,4 +5,5 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=nazartem&style=flat-square&color=blue" alt=""/>
 </div>
